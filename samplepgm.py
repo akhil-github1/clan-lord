@@ -1,1 +1,1 @@
-print("Google Earth")
+print("Hello Earth")
