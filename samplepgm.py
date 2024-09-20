@@ -1,2 +1,6 @@
 print("Hello Earth")
-#commment in main branch
+<<<<<<< HEAD
+#comment in sbranch
+=======
+#comment in sbranch
+>>>>>>> sbranch
